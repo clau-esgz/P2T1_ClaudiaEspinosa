@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b16881-f299-4971-a73a-48be84b80ca7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T1P2_ClaudiaEspinosa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASLP/Concierge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASLP/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASLP/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASLP/Profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASLP/ScholarshipHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UASLP/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="66b16881-f299-4971-a73a-48be84b80ca7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
